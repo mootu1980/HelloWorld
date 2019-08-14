@@ -1,6 +1,7 @@
 'use strict';
 
-const { WebhookVerified: Webhook, ExpressJS } = require('jovo-framework');
+//const { WebhookVerified: Webhook, ExpressJS } = require('jovo-framework');
+const { Webhook, ExpressJS } = require('jovo-framework');
 const { app } = require ('./app.js');
 
 // ------------------------------------------------------------------
