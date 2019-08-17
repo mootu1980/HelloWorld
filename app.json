@@ -1,3 +1,8 @@
 {
+  "name": "IOT ESP8266 Alexa Skills",
+  "description": "Works with IOT devices over the firewall with Alexa skills",
+  "repository": "https://github.com/mootu1980/helloworld",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["esp8266", "google home", "wihtout ifttt", "iot", "arduino", "Alexa Skills"]
   
 }
